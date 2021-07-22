@@ -1,7 +1,7 @@
 # bikesharing
 
 ## Project Overview
-Leveraging NYC Citibike ride sharing data to assess viability of bike sharing business in Des Moines leveraging Tableau Public to help visualize the data to tell the story.  
+To assess the viability of a bike ride share business in Des Moines, NYC Citibike ride sharing data was leveraged as a comp/benchmark.  Python & Pandas were used to help convert some date types in the data and then Tableau Public was used to help visualize the data to tell the story.  
 
 ## Results
 
